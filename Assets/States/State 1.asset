@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee74b5c10f214a64faa700caa4dc894b, type: 3}
+  m_Name: State 1
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA foi escolhido para iniciar um dos maiores testes do CPR, queremos
+    entender o comportamento dos humanos no meio de um experimento social. Voc\xEA
+    ser\xE1 levado de volta a um momento de sua vida atrav\xE9s de medicamentos que
+    ir\xE3o induzir sua mem\xF3ria. Estes medicamentos ser\xE3o injetados em suas
+    veias.\r\n\r\n1 - Continuar"
+  nextStates:
+  - {fileID: 11400000, guid: 1a2a543fe0db8bc4d8ed318373d38efc, type: 2}
